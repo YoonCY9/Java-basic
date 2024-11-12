@@ -3,7 +3,8 @@ package class1;
 public class MovieReviewMain2 {
 
     public static void main(String[] args) {
-
+        // String title;
+        // String review;
         MovieReview movie1 = new MovieReview();
         movie1.title = "인셉션";
         movie1.review = "인생은 무한 루프";
